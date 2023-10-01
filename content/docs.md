@@ -9,11 +9,11 @@ lang: en   # Change "en" to the translated-language shortcode from https://www.i
 last_updated: 2022-11-17 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# -[ name: "simo elmasslouhi"   # Replace Jan Doe with translator name
+# - name: "simo elmasslouhi"   # Replace simo elmasslouhi with name, or delete this line if not multiple translators
 # contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+# - name: "simo elmasslouhi"   # Replace Jan Doe](https://www.facebook.com/profile.php?id=100069124483477) with contributor name, or delete this line if none
+# - name: "simo elmasslouhi"   # Replace simo elmasslouhi with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-intro-wcag
@@ -28,7 +28,7 @@ description:  Describes Web Content Accessibility Guidelines (WCAG) 2 supporting
 # In the footer below:
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
-# Translate the Working Group name. Leave the Working Group acronym in English.
+# Translate the Working Group name. Leave the Working Group acronym in arabic.
 # Do not change the dates in the footer below.
 footer: >
    <p><strong>Date:</strong> Updated 17 November 2022. First published July 2005.</p>
